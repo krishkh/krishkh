@@ -1,4 +1,4 @@
-# HI I AM KRISH KHANNA
+# HI I AM KRISH
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
