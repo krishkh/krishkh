@@ -1,4 +1,4 @@
-# HI I AM KRISH
+# Hi I am Krish
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
