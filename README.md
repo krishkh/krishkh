@@ -2,11 +2,17 @@
 
 <!DOCTYPE html>
 <html>
-<head> <style>body{ background-color: "white"}</style>
+<head> 
+    <style>
+        body {
+            background-color: white; /* Remove quotes around "white" */
+        }
+    </style>
 </head>
 <body>
 </body>
 </html>
+
 
 
 <!--
