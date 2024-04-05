@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<!DOCTYPE html>
+<html>
+<head> <style>body{ background-color: "white"}</style>
+</head>
+<body>
+</body>
+</html>
+
+
 <!--
 **krishkh/krishkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
