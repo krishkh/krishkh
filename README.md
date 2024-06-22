@@ -1,4 +1,4 @@
-##Hi I am Krish
+Hi I am Krish
 ======================
 
 * 🌍  I'm based in Delhi
