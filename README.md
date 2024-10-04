@@ -3,7 +3,7 @@ Hi I am Krish
 
 * 🌍  I'm based in Delhi
 * 🧠  I'm learning WebDev, Ai integration, and Blockchain Technology
-* 🤝  I'm open to collaborating on any kind of projects, my discord is krishkh, or you can mail me at krishkhanna007@gmail.com
+* 🤝  I'm open for collaboration, my discord is krishkh, or you can mail me at krishkhanna007@gmail.com
 
 ### Skills
 
