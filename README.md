@@ -1,7 +1,6 @@
 Hi I am Krish
 ======================
 Full Stack Web Developer
-------------------------
 
 * 🌍  I'm based in delhi
 * 🖥️  See my portfolio at [krishkh.xyz](http://www.krishkh.xyz/)
