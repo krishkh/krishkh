@@ -6,7 +6,7 @@
 - 🖥️  Check out my portfolio: [krishkh.xyz](http://www.krishkh.xyz/)
 - ✉️  Reach me at: [krishkhanna007@gmail.com](mailto:krishkhanna007@gmail.com)
 - 🚀  Currently working on: [myself]([http://www.krishkh.xyz](https://kaizen-notes.vercel.app/))
-- 🧠  Learning System Design, Go, and Web Sockets
+- 🧠  Learning System Design, C++(LLD), and Web Sockets
 - 🤝  Open to collaborating on paid projects
 
 ---
