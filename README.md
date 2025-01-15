@@ -87,7 +87,7 @@
   <a href="https://www.linkedin.com/in/krish-k-498774234/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
-  <a href="https://www.x.com/krishkh" target="_blank" rel="noreferrer">
+  <a href="https://www.x.com/krishk317" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X" />
   </a>
 </p>
