@@ -95,8 +95,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishkh&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-<a href="http://www.github.com/krishkh">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishkh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Krish's GitHub streak stats" />
-</a>
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishkh&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&hide=stars)
