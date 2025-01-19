@@ -17,4 +17,7 @@
 
 
 ### 📊 GitHub Stats
+---
 ![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishkh&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&hide=stars)
+---
+![Krish's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishkh&langs_count=10&theme=transparent)
