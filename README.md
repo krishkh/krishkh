@@ -4,7 +4,6 @@
 
 - ✉️  Reach me at: [krishkhanna007@gmail.com](mailto:krishkhanna007@gmail.com)
 
-### 📊 GitHub Stats
 ---
 ![Krish's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=krishkh&stroke=ffffff&background=0E1116&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 ---
