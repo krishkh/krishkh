@@ -2,6 +2,6 @@
 
 ### Hi, I’m [Krish](http://www.krishkh.xyz/)
 
-- ✉️  Reach me at: [krishkhanna007@gmail.com](mailto:krishkhanna007@gmail.com)
+- ✉️  Reach me at: [krishkhanna007@gmail.com](mailto:krishkhanna007@gmail.com) / [portfolio](https://www.krishkh.xyz/me)
 
 ---
